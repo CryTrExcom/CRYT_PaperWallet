@@ -13,4 +13,4 @@ Step 3: add your random passphrase and click on screen.....Data will be populate
 
 
 
-* Prinet must set to print background, and orizontal page layout.
+* Printer must set to print background, and orizontal page layout.
